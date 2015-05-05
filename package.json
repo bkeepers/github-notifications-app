@@ -1,0 +1,16 @@
+{
+  "name": "github-notifications",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "script/run"
+  },
+  "dependencies": {
+    "coffee-script": "*",
+    "coffee-cache": "*"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "~0.25.2",
+    "electron-packager": "~3.2.0"
+  }
+}
